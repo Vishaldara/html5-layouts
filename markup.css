@@ -1,0 +1,28 @@
+header{
+	border:solid black 2px;
+}
+ul{
+	text-align:left;
+	width:750px;
+	height:20px;
+	margin-left:160px;
+}
+ul li{
+	float:left;
+	display:inline;
+	margin-left:20px;
+	padding:0 30px;
+	line-height:50px;
+	
+}
+ul li:hover{
+	background:silver;
+	font-size:18px;
+}
+h1{
+	padding-left:100px;}
+
+h5{
+	padding-left:200px;}
+
+}
